@@ -1,4 +1,10 @@
 -------------------------------------------------------------------
+Thu Feb  4 15:28:56 UTC 2021 - David Diaz <dgonzalez@suse.com>
+
+- Set an "enforcing" SELinux proposal (jsc#SLE-17427).
+- 5.0.2
+
+-------------------------------------------------------------------
 Thu Feb  4 12:26:52 UTC 2021 - David Diaz <dgonzalez@suse.com>
 
 - Do not use proposal_settings_editable, which does not validate
